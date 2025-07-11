@@ -1,0 +1,3 @@
+<template>
+    Burasi Dashboard
+</template>
